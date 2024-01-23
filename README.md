@@ -9,23 +9,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-
-## Use Laravel
-
-1. Bootstap
-2. Bootstap Icon
-3. Leaflet Js
-4. Fontawesome
-5. SB Admin 2
-6. Trix
-
 **Web Implementation Classification and Mapping Pulmonary Tuberculosis**
 
 **Deskripsi**
@@ -67,9 +50,9 @@ Sistem ini masih dalam tahap pengembangan. Pengembangan yang akan dilakukan anta
 * Peningkatan akurasi klasifikasi
 * Peningkatan keakuratan pemetaan
 
-**Lisensi**
+## License
 
-Sistem ini didistribusikan dengan lisensi MIT.
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 **Kontak**
 
@@ -77,7 +60,7 @@ Jika Anda memiliki pertanyaan atau masukan, Anda dapat menghubungi pengembang si
 
 **Kontribusi di GitHub**
 
-Website ini merupakan open source dan tersedia di GitHub. Kami mengundang para developer untuk berkontribusi dalam pengembangan sistem ini. Anda dapat menemukan repositori kami di: [[https://github.com/](https://github.com/)[username]/web-implementation-classification-and-mapping-pulmonary-tuberculosis]
+Website ini merupakan open source dan tersedia di GitHub. Kami mengundang para developer untuk berkontribusi dalam pengembangan sistem ini. Anda dapat menemukan repositori kami di: [[https://github.com/]((https://github.com/rijalularif/web-tbparu/tree/master)]
 
 **Lisensi**
 
