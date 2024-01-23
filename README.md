@@ -60,7 +60,7 @@ Jika Anda memiliki pertanyaan atau masukan, Anda dapat menghubungi pengembang si
 
 **Kontribusi di GitHub**
 
-Website ini merupakan open source dan tersedia di GitHub. Kami mengundang para developer untuk berkontribusi dalam pengembangan sistem ini. Anda dapat menemukan repositori kami di: [[https://github.com/]((https://github.com/rijalularif/web-tbparu/tree/master)]
+Website ini merupakan open source dan tersedia di GitHub. Kami mengundang para developer untuk berkontribusi dalam pengembangan sistem ini. Anda dapat menemukan repositori kami di: [(https://github.com/rijalularif/web-tbparu/tree/master)]
 
 **Lisensi**
 
