@@ -9,25 +9,24 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-**Web Implementation Classification and Mapping Pulmonary Tuberculosis**
 
-**Deskripsi**
+## Deskripsi
 
 Website ini merupakan sistem web untuk mengklasifikasikan dan memetakan tuberkulosis paru-paru. Sistem ini dibangun dengan menggunakan PHP framework Laravel dan metode decision tree, metode ward, analisis korespondensi, dan regresi linear.
 
-**Fitur**
+## Fitur
 
 * Klasifikasi tuberkulosis paru-paru
 * Pemetaan tuberkulosis paru-paru
 
-**Teknologi**
+## Teknologi
 
 * Bahasa pemrograman: PHP
 * Framework: Laravel
 * Database: MySQL
 * Metode: Decision tree, metode ward, analisis korespondensi, regresi linear
 
-**Cara penggunaan**
+## Cara penggunaan
 
 Untuk menggunakan sistem ini, pengguna harus terlebih dahulu mendaftarkan akun. Setelah akun dibuat, pengguna dapat mengakses sistem dengan memasukkan username dan password.
 
@@ -42,7 +41,7 @@ Sistem akan menggunakan metode decision tree untuk mengklasifikasikan tuberkulos
 
 Pengguna juga dapat memetakan tuberkulosis paru-paru dengan memilih provinsi dan kabupaten/kota. Sistem akan menggunakan metode ward untuk memetakan tuberkulosis paru-paru.
 
-**Pengembangan**
+## Pengembangan
 
 Sistem ini masih dalam tahap pengembangan. Pengembangan yang akan dilakukan antara lain:
 
@@ -53,22 +52,19 @@ Sistem ini masih dalam tahap pengembangan. Pengembangan yang akan dilakukan anta
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Sistem ini didistribusikan dengan lisensi MIT. Ini berarti Anda bebas menggunakan, memodifikasi, dan mendistribusikan sistem ini untuk tujuan apapun, baik komersial maupun non-komersial.
 
-**Kontak**
+## Kontak
 
 Jika Anda memiliki pertanyaan atau masukan, Anda dapat menghubungi pengembang sistem di [email protected]
 
-**Kontribusi di GitHub**
+## Kontribusi di GitHub
 
 Website ini merupakan open source dan tersedia di GitHub. Kami mengundang para developer untuk berkontribusi dalam pengembangan sistem ini. Anda dapat menemukan repositori kami di: [(https://github.com/rijalularif/web-tbparu/tree/master)]
 
-**Lisensi**
-
-Sistem ini didistribusikan dengan lisensi MIT. Ini berarti Anda bebas menggunakan, memodifikasi, dan mendistribusikan sistem ini untuk tujuan apapun, baik komersial maupun non-komersial.
-
 **Kami harap website ini dapat bermanfaat bagi masyarakat untuk meningkatkan pemahaman dan penanganan tuberkulosis paru-paru.**
 
-**Penjelasan**
+## Penjelasan
 
 Pada bagian **Deskripsi**, dijelaskan bahwa website ini digunakan untuk mengklasifikasikan dan memetakan tuberkulosis paru-paru.
 
