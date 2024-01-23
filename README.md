@@ -56,11 +56,11 @@ Sistem ini didistribusikan dengan lisensi MIT. Ini berarti Anda bebas menggunaka
 
 ## Kontak
 
-Jika Anda memiliki pertanyaan atau masukan, Anda dapat menghubungi pengembang sistem di [email protected]
+Jika Anda memiliki pertanyaan atau masukan, Anda dapat menghubungi pengembang sistem di rijalul.arif@gmail.com
 
 ## Kontribusi di GitHub
 
-Website ini merupakan open source dan tersedia di GitHub. Kami mengundang para developer untuk berkontribusi dalam pengembangan sistem ini. Anda dapat menemukan repositori kami di: [(https://github.com/rijalularif/web-tbparu/tree/master)]
+Website ini merupakan open source dan tersedia di GitHub. Kami mengundang para developer untuk berkontribusi dalam pengembangan sistem ini. Anda dapat menemukan repositori kami di: https://github.com/rijalularif/web-tbparu/tree/master
 
 **Kami harap website ini dapat bermanfaat bagi masyarakat untuk meningkatkan pemahaman dan penanganan tuberkulosis paru-paru.**
 
@@ -81,7 +81,5 @@ Pada bagian **Lisensi**, dijelaskan lisensi yang digunakan pada website ini.
 Pada bagian **Kontak**, dijelaskan kontak pengembang website ini.
 
 Pada bagian **Kontribusi di GitHub**, dijelaskan repositori website ini di GitHub dan undangan kepada para developer untuk berkontribusi dalam pengembangan website ini.
-
-Pada bagian **Lisensi**, dijelaskan lisensi yang digunakan pada website ini.
 
 Pada bagian **Penjelasan**, dijelaskan penjelasan tambahan mengenai website ini.
